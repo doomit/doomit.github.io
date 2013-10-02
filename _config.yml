@@ -2,7 +2,7 @@ markdown: redcarpet
 redcarpet:
   extensions: ["autolink", "tables", "strikethrough"]
 permalink: /:year/:month/:day/:title 
-title: Tao Zhang
+title: Sand King
 url: http://ztpala.com
 githubEditBaseURL: https://github.com/pala/pala.github.com/edit/master/
 subscribe: http://ztpala.com/atom.xml
